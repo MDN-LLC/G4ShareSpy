@@ -1,2 +1,1 @@
-github "MDN-LLC/LoopKit" "dev"
-github "MDN-LLC/dexcom-share-client-swift" ~> 1.2
+github "MDN-LLC/dexcom-share-client-swift" "dev"
